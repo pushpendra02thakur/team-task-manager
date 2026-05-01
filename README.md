@@ -64,7 +64,6 @@ It demonstrates real-world system design by integrating **secure authentication,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/kuverdeep/taskflow.git
 cd taskflow
 ```
 ### 2. Install Dependencies
